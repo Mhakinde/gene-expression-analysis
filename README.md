@@ -83,3 +83,9 @@ The script successfully identified these genes as significant, validating the an
 
 ---
 
+## Result
+<img width="849" height="703" alt="image" src="https://github.com/user-attachments/assets/9023d5ec-62ac-4121-a8d9-8d5b71079eef" />
+
+
+---
+
